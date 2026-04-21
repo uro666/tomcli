@@ -8,8 +8,8 @@ Version:	0.10.1
 Release:	1
 License:	MIT
 Group:		Development/Python
-URL:		https://pypi.org/project/tomcli/
-Source0:	https://files.pythonhosted.org/packages/source/t/tomcli/tomcli-%{version}.tar.gz
+URL:		https://pypi.org/project/tomcli
+Source0:	https://files.pythonhosted.org/packages/source/t/%{module}/%{module}-%{version}.tar.gz
 
 BuildSystem:	python
 BuildArch:	noarch
